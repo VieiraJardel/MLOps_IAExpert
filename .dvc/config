@@ -2,4 +2,4 @@
     autostage = true
     remote = origin
 ['remote "origin"']
-    url = https://dagshub.com/dennymarcels/mlops_project.dvc
+    url = https://dagshub.com/VieiraJardel/MLOps_IAExpert.dvc
